@@ -1,0 +1,8 @@
+
+q
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "diff".(÷ºšt
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢îÚa
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†ñÀÌýÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(‹ƒÂ‘ùÿÿÿÿ
+7
+java:S1116!"Remove this empty statement.(Åñ­õþÿÿÿÿ
