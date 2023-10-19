@@ -1,0 +1,46 @@
+
+o
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
+a
+java:S1192b"KDefine a constant instead of duplicating this literal "12:00:00AM" 3 times.(±Ú×È
+f
+java:S1192f"KDefine a constant instead of duplicating this literal "12:00:00PM" 3 times.(—¶Û÷úÿÿÿÿ
+a
+java:S1192`"KDefine a constant instead of duplicating this literal "01:00:00AM" 3 times.(¶ ¶Û
+f
+java:S1192d"KDefine a constant instead of duplicating this literal "10:00:00PM" 3 times.(ª·âÈøÿÿÿÿ
+k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦–õÿÿÿÿÿ
+k	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦–õÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úğÛË
+U
+java:S1118":Add a private constructor to hide the implicit public one.(È’§şÿÿÿÿ
+L
+java:S1854?"6Remove this useless assignment to local variable "sp".(µ•Àâ
+=
+java:S1481?"'Remove this unused "sp" local variable.(µ•Àâ
+‚
+java:S1130_"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(úææ©üÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(úææ©üÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(úææ©üÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(úææ©üÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ÃªÀ–úÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(±Ôœü
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(±Ôœü
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(±Ôœü
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(±Ôœü
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(è¡ƒÌüÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(êÈ–Öÿÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(êÈ–Öÿÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(êÈ–Öÿÿÿÿÿ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(êÈ–Öÿÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.math'.(âî©
+@
+java:S1128"*Remove this unused import 'java.security'.(èÛò§
+<
+java:S1128"&Remove this unused import 'java.text'.(ë¼Èí
+F
+java:S1128"1Remove this unused import 'java.util.concurrent'.(íĞ¢6
+B
+java:S1128	",Remove this unused import 'java.util.regex'.(£‘¬Ş
